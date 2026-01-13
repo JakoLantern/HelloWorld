@@ -1,0 +1,21 @@
+.first-component {
+  padding: 20px;
+  margin: 16px;
+  background-color: yellow;
+  color: purple;
+  border-color: green;
+  width: 400px;
+  height: 300px;
+  font-size: 14px;
+  font-family: Helvetica;
+  display: grid;
+  gap: 12px;
+}
+
+.name-display {
+  background-color: #f0f0f0;
+  color: #333333;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 4px;
+}

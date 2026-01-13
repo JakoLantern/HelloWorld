@@ -1,0 +1,29 @@
+/* Root styles with intentional violations */
+:host {
+  padding: 16px;
+  margin: 12px;
+  background-color: #ffffff;
+  color: black;
+  display: flex;
+  gap: 8px;
+}
+
+.container {
+  width: 800px;
+  height: 600px;
+  max-width: 1200px;
+  padding: 24px;
+  border-radius: 8px;
+  background-color: blue;
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.header {
+  border-color: red;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  font-family: Arial;
+}
